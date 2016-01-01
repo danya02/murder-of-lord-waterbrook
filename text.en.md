@@ -7,17 +7,17 @@
 
 `0.38` It's more comfortable for me. 
 
-`1.00` The murder of Lord Waterbrook
+`1.00` *The murder of Lord Waterbrook
 
-`1.07` «Sherlock Holmes and Dr. Watson» by Alexander Bubnov
+`1.07` *«Sherlock Holmes and Dr. Watson»* by Alexander Bubnov
 
-`1.23` Baker st. 221b
+`1.23` *Baker st. 221b*
 
-`1.30` Mrs. Hudson
+`1.30` *Mrs. Hudson*
 
-`1.34` Dr. Watson
+`1.34` *Dr. Watson*
 
-`1.37` Mr. Sherlock Holmes
+`1.37` *Mr. Sherlock Holmes*
 
 `2.02` It's a bullet. 
 
@@ -55,7 +55,7 @@
 
 `3.36` You do read books, don't you?
 
-`3.40` Why, I do. For example… "The Charter of Guard Duty"… what else…
+`3.40` Why, I do. For example… *"The Charter of Guard Duty"*… what else…
 
 `3.45` Did you happen to read Conan Doyle, sir?
 
@@ -171,7 +171,7 @@
 
 `10.15` Mary!
 
-`10.16` Now I got it.  The lord seduced  the maid…
+`10.16` Now I got it.  The lord seduced the maid…
 
 `10.22` What?!  
 
@@ -265,9 +265,9 @@
 
 `16.55` Sergeant Baskerville with the service hound, sir!
 
-`17.06` The murder of Lord Waterbrook
+`17.06` *The murder of Lord Waterbrook*
 
-`17.08` The suicide of Lord Waterbrook 
+`17.08` *The suicide of Lord Waterbrook* 
 
 `17.28` I knew it was a suicide all along.
 
