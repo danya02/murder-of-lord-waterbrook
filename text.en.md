@@ -7,7 +7,7 @@
 
 `0.38` It's more comfortable for me. 
 
-`1.00` *The murder of Lord Waterbrook
+`1.00` *The murder of Lord Waterbrook*
 
 `1.07` *«Sherlock Holmes and Dr. Watson»* by Alexander Bubnov
 
