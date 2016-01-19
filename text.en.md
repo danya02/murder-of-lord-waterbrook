@@ -215,7 +215,7 @@
 
 `14.17` The sauce we didn't eat.
 
-`14.25` Damn you, Fun Lin!
+`14.25` Fun Lin, what kind of bastard are you?
 
 `14.28` Silent, murdered!  
 
@@ -251,7 +251,7 @@
 
 `16.08` Let's mentally remove his mustache, glasses and hat.
 
-`16.18` Henry, I was thinking of why you smell gasoline when you come to the bedroom!
+`16.18` Henry, and I thought of why you smell gasoline when you come to the bedroom!
 
 `16.25` That's it! I've heard enough! 
 
