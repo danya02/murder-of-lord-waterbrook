@@ -21,15 +21,15 @@
 
 `2.02` It's a bullet. 
 
-`2.05` My god, Holmes! It's an attempt!
+`2.05` My god, Holmes! It's an attempted murder!
 
 `2.11` No, Watson, it's a murder. 
 
-`2.16` So, Watson, here is our house's window. It has a hole from the bullet. 
+`2.16` So, Watson, here is our house's window. There is a bullet hole in it. 
 
 `2.20` Now look at this tree.  
 
-`2.25` See the broken branch? Wee connect those two points with a dashed line and we continue it. 
+`2.25` See the broken branch? We connect those two points with a dashed line and we continue it. 
 
 `2.30` We get the third point - the opposing house's window. 
 
@@ -49,9 +49,9 @@
 
 `3.17` And who are you supposed to be?
 
-`3.26` This is the greatest detective of all times, Mr. Sherlock Holmes. 
+`3.26` This is the greatest detective of all times Mr. Sherlock Holmes. 
 
-`3.33` I'm his friend and assistant, Dr. Watson. 
+`3.33` I'm his friend and assistant Dr. Watson. 
 
 `3.36` You do read books, don't you?
 
@@ -65,7 +65,7 @@
 
 `3.57` Let's go, Holmes.
 
-`4.03` Settle down, please. They're allowed, they're from Conan Doyle. 
+`4.03` Settle down, please. They're allowed to come, they're from Conan Doyle. 
 
 `4.12` Here, Watson, let's continue our dashed line…
 
@@ -73,15 +73,15 @@
 
 `4.25` There are several? 
 
-`4.27` At least two. I could see it from the bullet. 
+`4.27` At least two. I could see it after studying the bullet. 
 
-`4.32` Your calling card, please… How do you want me to report?
+`4.32` Your business card, please, Sir… How do you want to be announced?
 
-`4.40` You won't ever be able to report anything, my poor friend -  you are murdered.
+`4.40` You won't ever be able to announce anybody, my poor friend -  you were murdered.
 
 `4.44` Sorry, sir - I'm not yet used to it.
 
-`4.50` And here is the bullet hole; the bullet flew right through the door, and the head of this poor fellow, who stood here so unfortunately.
+`4.50` And here is the bullet hole; the bullet flew right through the door and the head of this poor fellow, who was standing here so unfortunately.
 
 `5.05` Look here, Watson!
 
@@ -155,7 +155,7 @@
 
 `8.50` You're counting pieces? Shame on you, inspector!
 
-`9.00` Yep… Do you have your own opinion?
+`9.00` Yep… Do you have your own version?
 
 `9.04` I'd like to talk to the ménage.
 
@@ -203,9 +203,9 @@
 
 `13.19` …unusual… unusual for cooks.
 
-`13.25` A cook first wants to poison.
+`13.25` The cook first wants to poison.
 
-`13.30` I did so… I poisoned da lord. I made poisoned roast.
+`13.30` I did so… I poisoned da lord. I made a poisoned roast.
 
 `13.44` What poison was it? How much time do we have?
 
@@ -225,7 +225,7 @@
 
 `14.45` the porter? - Yes, the one behind the door. 
 
-`14.50` You're forgetting that he is, somehow, murdered!
+`14.50` You're forgetting that he was, somehow, murdered!
 
 `14.53` He could've shot the lord, run forward and stood in the way of the bullet.
 
