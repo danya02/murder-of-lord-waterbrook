@@ -23,7 +23,7 @@
 
 `2.05` My god, Holmes! It's an attempted murder!
 
-`2.11` No, Watson, it's a murder. 
+`2.11` No, Watson, it's a *committed* murder. 
 
 `2.16` So, Watson, here is our house's window. There is a bullet hole in it. 
 
